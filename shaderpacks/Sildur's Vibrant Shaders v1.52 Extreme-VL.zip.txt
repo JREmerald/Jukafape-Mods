@@ -1,0 +1,6 @@
+#Sun Sep 15 16:50:38 ART 2024
+Volumetric_Lighting=false
+light_brightness=0.4
+g_multiplier=0.25
+b_multiplier=0.25
+Contrast=2.0

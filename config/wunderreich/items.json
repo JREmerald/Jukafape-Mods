@@ -1,0 +1,8 @@
+{
+  "create_version": "2.0.15",
+  "whisperer": true,
+  "whisperer_blank": true,
+  "builders_trowel": true,
+  "diamond_builders_trowel": true,
+  "modify_version": "2.0.15"
+}
