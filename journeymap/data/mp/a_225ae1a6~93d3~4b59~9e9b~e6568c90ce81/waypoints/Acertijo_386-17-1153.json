@@ -1,0 +1,22 @@
+{
+  "id": "Acertijo_386-17-1153",
+  "name": "Acertijo",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7732346-waypoint-icon.png",
+  "x": 386,
+  "y": -17,
+  "z": 1153,
+  "r": 138,
+  "g": 3,
+  "b": 134,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

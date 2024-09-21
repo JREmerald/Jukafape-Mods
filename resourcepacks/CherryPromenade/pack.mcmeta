@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "Cherry (1.20.1) for Promenade mod",
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 99
+    }
+  }
+}

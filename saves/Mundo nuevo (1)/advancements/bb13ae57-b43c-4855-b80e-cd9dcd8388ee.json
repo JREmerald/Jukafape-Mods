@@ -1,0 +1,36 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-25 20:13:54 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-08-25 20:13:54 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-08-25 20:13:54 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-08-25 20:13:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-08-25 20:16:48 -0300",
+      "minecraft:dark_forest": "2024-08-25 20:18:58 -0300",
+      "minecraft:river": "2024-08-25 20:19:18 -0300",
+      "minecraft:old_growth_birch_forest": "2024-08-25 20:13:54 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

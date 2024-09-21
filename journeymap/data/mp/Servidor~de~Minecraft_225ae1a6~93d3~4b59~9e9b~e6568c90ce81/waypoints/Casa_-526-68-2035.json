@@ -1,0 +1,22 @@
+{
+  "id": "Casa_-526-68-2035",
+  "name": "Casa",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16712066-waypoint-icon.png",
+  "x": -526,
+  "y": 68,
+  "z": -2035,
+  "r": 0,
+  "g": 254,
+  "b": 126,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

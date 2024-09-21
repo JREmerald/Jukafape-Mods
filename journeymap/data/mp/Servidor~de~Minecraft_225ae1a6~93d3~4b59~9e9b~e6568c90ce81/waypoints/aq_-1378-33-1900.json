@@ -1,0 +1,22 @@
+{
+  "id": "aq_-1378-33-1900",
+  "name": "aq",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13281102-waypoint-icon.png",
+  "x": -1378,
+  "y": 33,
+  "z": -1900,
+  "r": 53,
+  "g": 88,
+  "b": 178,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

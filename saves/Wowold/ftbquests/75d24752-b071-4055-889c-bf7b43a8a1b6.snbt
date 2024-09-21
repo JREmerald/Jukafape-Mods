@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "75d24752b0714055889cbf7b43a8a1b6"
+	name: "elfabio02"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

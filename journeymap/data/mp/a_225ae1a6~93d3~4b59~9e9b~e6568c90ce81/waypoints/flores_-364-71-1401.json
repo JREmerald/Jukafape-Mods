@@ -1,0 +1,22 @@
+{
+  "id": "flores_-364-71-1401",
+  "name": "flores",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15293046-waypoint-icon.png",
+  "x": -364,
+  "y": 71,
+  "z": -1401,
+  "r": 22,
+  "g": 165,
+  "b": 138,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

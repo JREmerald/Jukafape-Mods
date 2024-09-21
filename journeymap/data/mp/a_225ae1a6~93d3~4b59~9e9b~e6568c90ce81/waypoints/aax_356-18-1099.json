@@ -1,0 +1,22 @@
+{
+  "id": "aax_356-18-1099",
+  "name": "aax",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12084382-waypoint-icon.png",
+  "x": 356,
+  "y": -18,
+  "z": 1099,
+  "r": 71,
+  "g": 155,
+  "b": 98,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

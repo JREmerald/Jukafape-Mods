@@ -1,0 +1,17 @@
+{
+	id: "c404b1c9-c0e2-4eea-9a79-1bc39a912478"
+	type: "player"
+	player_name: "kaiqwp"
+	ranks: {
+		c404b1c9-c0e2-4eea-9a79-1bc39a912478: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kaiqwp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

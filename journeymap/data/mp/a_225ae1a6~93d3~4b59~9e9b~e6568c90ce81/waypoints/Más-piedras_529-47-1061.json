@@ -1,0 +1,22 @@
+{
+  "id": "Más-piedras_529-47-1061",
+  "name": "Más piedras",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4613985-waypoint-icon.png",
+  "x": 529,
+  "y": -47,
+  "z": 1061,
+  "r": 185,
+  "g": 152,
+  "b": 159,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

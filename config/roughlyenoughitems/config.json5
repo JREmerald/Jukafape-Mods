@@ -1,0 +1,357 @@
+{
+	"basics": {
+		"favorites": [
+			"{id:\"ftbquests:quests\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbquests:item/book\",\"x\":610,\"click\":\"ftbquests:open_gui\",\"required_server_mods\":[\"ftbquests\"],\"custom_text\":true}',type:\"ftblibrary:sidebar_button\"}",
+			"{data:{Count:1b,id:\"minecraft:pink_concrete\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:birch_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:lime_dye\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_shovel\",tag:{Damage:144,Tiered:{Tier:\"tiered:rare\"},durable:0.1d},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gold_nugget\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"farmersdelight:skillet\",tag:{Damage:165},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:magenta_dye\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:rotten_flesh\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:pedestal_moonstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gold_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stripped_spruce_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:crimson_hyphae\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_sword\",tag:{Damage:11,Tiered:{Tier:\"tiered:dull\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"botania:black_lotus\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:villagernose\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_sword\",tag:{Damage:28,Tiered:{Tier:\"tiered:dull\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:spyzombie\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:jaramel\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_shovel\",tag:{Damage:240,Tiered:{Tier:\"tiered:rare\"},durable:0.1d},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"dinocraft:amber_gem\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:bluefireeye\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sandwichable:salt_rock\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"promenade:pink_cherry_oak_sapling\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"haema:vampire_blood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:1},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:sticky_mechanical_piston\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:item_drain\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:brass_funnel\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:andesite_tunnel\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:mechanical_crafter\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"hookshot:lime_hookshot\",tag:{Damage:510},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:dirt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:crimsite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:powder_chiseled_preservation_stone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bundle\",tag:{Items:[{Count:3b,id:\"minecraft:orange_dye\"},{Count:16b,id:\"byg:green_apple\"},{Count:1b,id:\"minecraft:lead\"},{Count:4b,id:\"dinocraft:fossil\"},{Count:5b,id:\"mythicmetals:raw_banglum\"}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:arrow\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:amethyst_chiseled_basalt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:citrine_chiseled_basalt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:lead\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bone_meal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:122},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_nugget\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:small_citrine_bud\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:andesite_sparklestone_light\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:pedestal_onyx\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:lapis_lazuli\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"galosphere:allurite_shard\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:raw_silver\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:amethyst_shard\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:bowler\",tag:{display:{color:14535031}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:2s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:smooth_basalt_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:multitool\",tag:{Damage:0,Enchantments:[{id:\"minecraft:efficiency\",lvl:1s}],Tiered:{Tier:\"tiered:uncommon\"},durable:0.1d},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:chiseled_polished_basalt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:andesite_casing\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:polished_basalt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:inkwell\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:pedestal_all_basic\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:crystallarieum\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:spirit_instiller\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:upgrade_yield2\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:topaz_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:raw_banglum\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:117,Tiered:{Tier:\"tiered:common\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:string\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:swimmer\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:redstone_torch\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:paper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:jaramel_tart\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:resonant_pickaxe\",tag:{Damage:0,Enchantments:[{id:\"spectrum:resonance\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:voiding_pickaxe\",tag:{Damage:0,Enchantments:[{id:\"spectrum:voiding\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:bedrock_hoe\",tag:{Enchantments:[{id:\"minecraft:fortune\",lvl:4s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:bedrock_sword\",tag:{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:puff_tart\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:pigment_palette\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:lucky_roll\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:purple_star_candy\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:star_candy\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:kimchi\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:bedrock_fishing_rod\",tag:{Enchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:4s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:molten_rod\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:lagoon_rod\",tag:{Damage:0,Enchantments:[{id:\"minecraft:lure\",lvl:3s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:looting_falchion\",tag:{Damage:0,Enchantments:[{id:\"minecraft:looting\",lvl:3s}],Tiered:{Tier:\"tiered:extended\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"dinocraft:fossil\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:silker_pickaxe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:silk_touch\",lvl:1s}],Tiered:{Tier:\"tiered:common\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:tricorne\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_sapling\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:apple\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:white_wool\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:shroomcap\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:topaz_shard\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplehats:headshot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:brass_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"harvest_scythes:adamantite_scythe\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:raw_runite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bowl\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:sand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:spruce_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:deepslate_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:copper_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:amethyst_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:warped_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"twilightforest:fiery_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:endstone_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:diorite_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:palladium_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:prometheum_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"botania:elementium_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"botania:terra_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"botania:star_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:carmot_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:bronze_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:banglum_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:aquarium_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:osmium_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:orichalcum_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:adamantite_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:metallurgium_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:rednetherbrick_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:netherbrick_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"sentimentality3:crimson_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:metallurgium_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:netherite_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:tuff\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:sparklestone_gem\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:potato\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"farmersdelight:rope\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:smooth_basalt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:raw_pendorite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:experience_bottle\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:sugar_cane\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:wooden_pickaxe\",tag:{Damage:3,Tiered:{Tier:\"tiered:extended\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_pickaxe\",tag:{Damage:1460,Tiered:{Tier:\"tiered:uncommon\"},durable:0.1d},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:glass\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:polished_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:pink_allium_flower_bush\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:raw_mythril\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:sand_paper\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:unobtainium\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:redstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:raw_orichalcum\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"chipped:raw_iron_block_28\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:morkite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:glowstone_dust\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spirit:soul_powder_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"nethersdelight:rich_soul_soil\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spirit:soul_steel_sword\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:book\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spirit:soul_steel_sword\",tag:{Damage:0,Tiered:{Tier:\"tiered:dull\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_pickaxe\",tag:{Damage:1464,Tiered:{Tier:\"tiered:uncommon\"},durable:0.1d},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:flint_and_steel\",tag:{Damage:40},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:adamantite_sword\",tag:{Damage:32,Tiered:{Tier:\"tiered:rare\"},durable:0.1d},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:baked_potato\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:paintbrush\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:raw_gold\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:music_disc_11\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:enchanted_golden_apple\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"mythicmetals:adamantite_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:soul_sand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stick\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:multitool\",tag:{Damage:0,Enchantments:[{id:\"minecraft:efficiency\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spirit:soul_steel_bow\",tag:{Damage:0,Tiered:{Tier:\"tiered:hunting\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"twigs:rhyolite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:lesser_potion_pendant\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:gleaming_pin\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:celestial_pocketwatch\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:gilded_book\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:midnight_solution_bucket\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:logo_banner_pattern\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:ender_bag\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:greater_potion_pendant\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:glow_vision_helmet\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:fanciful_gloves\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:gloves_of_dawns_grasp\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"spectrum:heartsingers_reward\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:pendorite_scraps\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
+		"hiddenFavorites": [
+			"{id:\"ftbteams:my_team\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbteams:textures/teams.png\",\"x\":0,\"click\":\"ftbteams:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}"
+		],
+		"displayHistory": [],
+		// Declares whether cheating mode is on.
+		"cheating": false,
+		"favoritesEnabled": true,
+		"keyBindings": {
+			"recipeKeybind": {
+				"keyCode": "key.keyboard.r",
+				"modifier": 0
+			},
+			"usageKeybind": {
+				"keyCode": "key.keyboard.u",
+				"modifier": 0
+			},
+			"hideKeybind": {
+				"keyCode": "key.keyboard.o",
+				"modifier": 2
+			},
+			"previousPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"nextPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"focusSearchFieldKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"copyRecipeIdentifierKeybind": {
+				"keyCode": "key.mouse.middle",
+				"modifier": 0
+			},
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.keypad.decimal",
+				"modifier": 0
+			},
+			"exportImageKeybind": {
+				"keyCode": "key.keyboard.f8",
+				"modifier": 0
+			},
+			"previousScreenKeybind": {
+				"keyCode": "key.keyboard.backspace",
+				"modifier": 0
+			}
+		},
+		// Declares whether REI is visible.
+		"overlayVisible": true,
+		"cheatingStyle": "GRAB",
+		"motion": {
+			"favoritesAnimation": true
+		}
+	},
+	"advanced": {
+		"filtering": {
+			"shouldFilterDisplays": true,
+			"filteringRules": [
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
+			],
+			"filteringQuickCraftCategories": { },
+			"filteredStacks": []
+		},
+		"enableJeiCompatibilityLayer": true,
+		"tooltips": {
+			// Declares whether REI should append mod names to entries.
+			"appendModNames": true,
+			// Declares whether favorites tooltip should be displayed.
+			"displayFavoritesTooltip": false,
+			"displayIMEHints": true
+		},
+		"layout": {
+			// The ordering of the items on the entry panel.
+			"entryPanelOrdering": "REGISTRY_ASCENDING",
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPerPage": 8,
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPageHeight": 300,
+			// Declares whether entry rendering time should be debugged.
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true,
+			"favoriteAddWidgetMode": "ALWAYS_VISIBLE"
+		},
+		"accessibility": {
+			"entrySize": 1.0,
+			// Declares the position of the entry panel.
+			"displayPanelLocation": "RIGHT",
+			// Declares how the scrollbar in composite screen should act.
+			"compositeScrollBarPermanent": false,
+			"toastDisplayedOnCopyIdentifier": true,
+			// Declares whether REI should use compact tabs for categories.
+			"useCompactTabs": true,
+			// Declares whether REI should use compact tab buttons for categories.
+			"useCompactTabButtons": false
+		},
+		"search": {
+			// Declares whether search time should be debugged.
+			"debugSearchTimeRequired": false,
+			// Declares whether REI should search async.
+			"asyncSearch": true,
+			// Declares how many entries should be grouped one async search.
+			"asyncSearchPartitionSize": 100,
+			"patchAsyncThreadCrash": true,
+			"tooltipSearch": "ALWAYS",
+			"tagSearch": "PREFIX",
+			"identifierSearch": "ALWAYS",
+			"modSearch": "ALWAYS"
+		},
+		"commands": {
+			// Declares the command used to change gamemode.
+			"gamemodeCommand": "/gamemode {gamemode}",
+			// Declares the command used in servers to cheat items.
+			"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+			// Declares the command used to change weather.
+			"weatherCommand": "/weather {weather}",
+			// Declares the command used to change time.
+			"timeCommand": "/time set {time}"
+		},
+		"miscellaneous": {
+			// Declares whether arrows in containers should be clickable.
+			"clickableRecipeArrows": true,
+			"registerRecipesInAnotherThread": true,
+			"newFastEntryRendering": true,
+			"cachingFastEntryRendering": false,
+			"cachingDisplayLookup": true
+		}
+	},
+	"appearance": {
+		"recipeScreenType": "ORIGINAL",
+		// Declares the appearance of REI windows.
+		"theme": "LIGHT",
+		"layout": {
+			// Declares the position of the search field.
+			"searchFieldLocation": "CENTER",
+			// Declares the position of the config button.
+			"configButtonLocation": "LOWER",
+			// Declares whether the craftable filter button is enabled.
+			"showCraftableOnlyButton": true
+		},
+		// Declares the appearance of recipe's border.
+		"recipeBorder": "DEFAULT",
+		// Declares whether entry panel is scrolled.
+		"scrollingEntryListWidget": false,
+		"horizontalEntriesBoundaries": 1.0,
+		"verticalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundariesColumns": 50,
+		"verticalEntriesBoundariesRows": 1000,
+		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundariesColumns": 50,
+		"syntaxHighlightingMode": "COLORFUL",
+		"isFocusModeZoomed": false
+	},
+	"functionality": {
+		"inputMethod": null,
+		// Declares whether REI should remove the recipe book.
+		"disableRecipeBook": false,
+		// Declares whether mob effects should be on the left side instead of the right side.
+		"leftSideMobEffects": false,
+		// Declares whether subsets is enabled.
+		"isSubsetsEnabled": false,
+		"allowInventoryHighlighting": true,
+		"itemCheatingMode": "REI_LIKE"
+	}
+}

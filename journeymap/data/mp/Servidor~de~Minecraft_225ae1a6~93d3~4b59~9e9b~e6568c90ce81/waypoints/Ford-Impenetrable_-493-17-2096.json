@@ -1,0 +1,22 @@
+{
+  "id": "Ford-Impenetrable_-493-17-2096",
+  "name": "Ford Impenetrable",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--4870172-waypoint-icon.png",
+  "x": -493,
+  "y": -17,
+  "z": -2096,
+  "r": 181,
+  "g": 175,
+  "b": 228,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

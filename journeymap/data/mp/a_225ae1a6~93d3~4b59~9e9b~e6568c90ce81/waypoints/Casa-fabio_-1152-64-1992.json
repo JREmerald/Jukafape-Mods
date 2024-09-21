@@ -1,0 +1,22 @@
+{
+  "id": "Casa-fabio_-1152-64-1992",
+  "name": "Casa fabio",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1814500-waypoint-icon.png",
+  "x": -1152,
+  "y": 64,
+  "z": -1992,
+  "r": 228,
+  "g": 80,
+  "b": 28,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

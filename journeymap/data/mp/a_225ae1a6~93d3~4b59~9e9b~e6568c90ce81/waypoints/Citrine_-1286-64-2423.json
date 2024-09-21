@@ -1,0 +1,22 @@
+{
+  "id": "Citrine_-1286-64-2423",
+  "name": "Citrine",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--65997-waypoint-icon.png",
+  "x": -1286,
+  "y": 64,
+  "z": -2423,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
