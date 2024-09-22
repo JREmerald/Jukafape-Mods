@@ -24,7 +24,7 @@ fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
-renderDistance:4
+renderDistance:6
 simulationDistance:5
 entityDistanceScaling:0.5
 guiScale:2
@@ -111,7 +111,6 @@ key_key.hotbar.9:key.keyboard.9
 key_key.ftbteams.open_gui:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
 key_key.ftbquests.quests:key.keyboard.unknown
-key_key.armor_visibility.armor_visibility_toggle:key.keyboard.keypad.3
 key_key.botania_corporea_request:key.keyboard.p
 key_carrier.key:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
